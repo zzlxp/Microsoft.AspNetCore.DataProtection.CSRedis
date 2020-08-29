@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Microsoft.AspNetCore.DataProtection.CSRedis For CSRedis 3.6.5</Description>
+    <PackageProjectUrl>https://github.com/zzlxp/Microsoft.AspNetCore.DataProtection.CSRedis</PackageProjectUrl>
+    <Authors>zzlxp</Authors>
+    <Company>Hengyang BoKai</Company>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
